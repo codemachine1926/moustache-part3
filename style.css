@@ -1,0 +1,12 @@
+body {
+    background-image: cover;
+    background-size: cover;
+}
+#head1 {
+    font-size: 35px;
+}
+
+canvas {
+    border-color:darkblue;
+    border-width: 3px;
+}
